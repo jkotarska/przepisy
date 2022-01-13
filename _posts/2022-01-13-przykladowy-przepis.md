@@ -12,8 +12,8 @@ tags: [deser, ciastka, czekolada]
 
 | masło | 100g |
 | mąka pszenna | 155g (szklanka) |
-| sól | 1/3 łyżeczki |
-| proszek do pieczenia | 1/3 łyżeczki |
+| sól | ⅓ łyżeczki |
+| proszek do pieczenia | ⅓ łyżeczki |
 | cukier brązowy | 80g |
 | cukier biały | 80g |
 | jajka | 1szt |
@@ -28,7 +28,7 @@ Utrzyj masło z cukrem za pomocą miksera.
 Dodaj mąkę, sól, proszek do pieczenia, cukier wanilinowy i jajko.
 Wszystko wymieszaj mikserem. 
 
-Czekoladę połam na małe kawalki - 1/4 kostki czekolady będzie OK.
+Czekoladę połam na małe kawalki - ¼ kostki czekolady będzie OK.
 Wrzuć do miski z masą i wymieszaj łyżką.
 
 {: .box-warning}
@@ -41,3 +41,6 @@ Ciastka piecz około 15 minut.
 
 {: .box-note}
 Ciastka po wyjęciu mogą wyglądać na surowe, ale gdy wystygną bedą OK.
+
+Ładne ułamki skopiowane ze strony:
+https://www.i2symbol.com/symbols/fractions
