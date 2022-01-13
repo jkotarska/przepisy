@@ -2,7 +2,7 @@
 layout: post
 title: Ciasteczka z kawałkami czekolady
 subtitle: Chocolate chip cookies
-cover-img: /assets/img/path.jpg #duży obrazek w tle
+cover-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #duży obrazek w tle
 thumbnail-img: /assets/img/thumb.png #mały obrazek na stronę główną
 share-img: /assets/img/path.jpg #obrazek przy udostępnianiu 
 tags: [deser, ciastka, czekolada]
