@@ -15,6 +15,7 @@ author: Justyna Barwikowska
 
 navbar-links:
   O mnie: "aboutme"
+  Tagi: "tags"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -67,7 +68,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Przepisy Bulki
+rss-description: Przepysznik
 
 # --- General options --- #
 
