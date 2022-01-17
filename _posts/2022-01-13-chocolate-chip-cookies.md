@@ -6,6 +6,7 @@ cover-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocol
 thumbnail-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #mały obrazek na stronę główną
 share-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #obrazek przy udostępnianiu 
 tags: [deser, ciastka, czekolada]
+comments: true
 ---
 
 Kojarzysz te pysznie wyglądające ciastka z amerykańskich filmów? 
