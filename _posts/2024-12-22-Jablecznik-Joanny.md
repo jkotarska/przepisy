@@ -2,9 +2,9 @@
 layout: post
 title: Jabłecznik Joanny
 subtitle: Jabłecznik inny niż wszystkie
-cover-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #duży obrazek w tle
-thumbnail-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #mały obrazek na stronę główną
-share-img: https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/chocolate_chip_cookies_00_1.jpg #obrazek przy udostępnianiu 
+cover-img: /assets/img/2024-12-22-Jablecznik-Joanny-01.jpg #duży obrazek w tle
+thumbnail-img: /assets/img/2024-12-22-Jablecznik-Joanny-02.jpg#mały obrazek na stronę główną
+share-img: /assets/img/2024-12-22-Jablecznik-Joanny-01.jpg #obrazek przy udostępnianiu 
 tags: [deser, ciasto, jabłecznik]
 comments: true
 ---
