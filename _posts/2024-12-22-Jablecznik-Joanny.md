@@ -3,7 +3,7 @@ layout: post
 title: Jabłecznik Joanny
 subtitle: Jabłecznik inny niż wszystkie
 cover-img: /assets/img/2024-12-22-Jablecznik-Joanny-01.jpg #duży obrazek w tle
-thumbnail-img: /assets/img/2024-12-22-Jablecznik-Joanny-02.jpg#mały obrazek na stronę główną
+thumbnail-img: /assets/img/2024-12-22-Jablecznik-Joanny-02.jpg #mały obrazek na stronę główną
 share-img: /assets/img/2024-12-22-Jablecznik-Joanny-01.jpg #obrazek przy udostępnianiu 
 tags: [deser, ciasto, jabłecznik]
 comments: true
